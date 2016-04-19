@@ -10,3 +10,11 @@ I might be adding new changes or fixing a bug and so i dont want it to be update
 Q.Describe the differences between forks, clones, and branches. When would you use one instead of another?
   Forks are created by making a copy is from one repository to another in GitHub .This makes sure the original author gets the credit for his code. Clones are making a copy of existing repository in either GitHub to local or local to another location in the computer.
     Branch is created on a single repository.
+
+Q.What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Incase you are planning to be offline for sometime then it would be best to save a copy of the last known state of the remote locally so that u can use git diff and git log to get all the changes .
+
+Q.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub i guess we will have to use a shared folder where everyone makes their contributions to a particular project.It would be hard to merge the codes but it would be easier to keep track of everyone who is working on it.
