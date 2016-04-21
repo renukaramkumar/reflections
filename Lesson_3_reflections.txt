@@ -18,3 +18,7 @@ Incase you are planning to be offline for sometime then it would be best to save
 Q.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git or GitHub i guess we will have to use a shared folder where everyone makes their contributions to a particular project.It would be hard to merge the codes but it would be easier to keep track of everyone who is working on it.
+
+Q.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you have many people working on a project or you are adding a new feature or fixing a bug then it is better to make changes in a separate branch.This will make sure that the master copy is untouched and is working and only when a branch is in a working condition need it to be merged with the master.
